@@ -1,5 +1,3 @@
-Sure, here's an updated profile that includes some of RishikeshOps' skills:
-
 # 🚀 Maruti Nandan
 
 ## ☁️ Cloud Architect | ⚙️ DevOps Engineer | 🧩 Solutions Specialist

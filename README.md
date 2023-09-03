@@ -14,8 +14,6 @@
 - ⚙️ **Configuration Management:** Ansible
 - 🌡️ **Monitoring Maestro:** Data Dog
 - 🎫 **Ticketing Pro:** JIRA
-- 📈 **Data Analytics:** Python | R | SQL
-- 📊 **Dashboarding and Visualization:** Tableau | Power BI | Grafana
 
 ## ☁️ Experience in the Cloud
 

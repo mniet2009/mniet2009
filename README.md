@@ -1,6 +1,9 @@
 🚀 Maruti Nandan
+
 ☁️ Cloud Architect | ⚙️ DevOps Engineer | 🧩 Solutions Specialist
+
 🎯 Shaping the Future of Tech with over a Decade of Expertise
+
 🛠️ Toolbox
 🐳 Docker Enthusiast: Docker | Docker Compose
 ☸️ Kubernetes Explorer: Kubernetes | K8s Orchestration
